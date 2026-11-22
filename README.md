@@ -59,10 +59,24 @@
 Попытка вытащить плоские чертежи масок из **KLayout** и превратить их в объёмные 3D-картинки через **Blender** дала средние результаты. Скрипты автоматизации везде отработали по-разному, и идеала тут нет.
 
 <p align="center">
-  <img src="NAIL_12CORE_5GHZ_3D_RENDER.png" alt="12-Core CPU 3D Render" width="31%" />
-  <img src="titan_hq_photo.png0001.png" alt="1TB Titan Layer Render" width="31%" />
-  <a href="NAIL_RISCV_GPU.bin"><img src="gpu_cover.png" alt="Download NAIL-RISCV-GPU Binary" width="31%" /></a>
+  <img src="NAIL_12CORE_5GHZ_3D_RENDER.png" alt="12-Core CPU 3D Render" width="85%" /><br/>
+  <i>Рендеринг и визуализация слоёв 12-ядерной системы ЦПУ</i>
 </p>
+
+<br/>
+
+<p align="center">
+  <a href="NAIL_RISCV_GPU.bin"><h3>💾 Скачать скомпилированный бинарник ГПУ (NAIL_RISCV_GPU.bin)</h3></a>
+  <i>Графический чиплет: исходный бинарный код процессора для симуляции</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="titan_hq_photo.png0001.png" alt="1TB Titan Layer Render" width="85%" /><br/>
+  <i>Срез кремниевой топологии и разводки накопителя ТИТАН</i>
+</p>
+
 
 
 
