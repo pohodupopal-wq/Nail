@@ -72,11 +72,11 @@
   <i>Срез кремниевой топологии и разводки накопителя ТИТАН</i>
 </p>
 
-
 <p align="center">
-  <img src="gpu.png" alt="NAIL-RISCV-GPU 3D Topology" width="85%" />
+  <img src="GPU.png" alt="NAIL-RISCV-GPU 3D Topology" width="85%" />
   <br><i>3D-визуализация топологии и размещения чиплетов графического процессора в САПР KLayout</i>
 </p>
+
 
 
 
